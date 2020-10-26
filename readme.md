@@ -1,3 +1,5 @@
+# Hej lol
+
 # How to fork this repository and setup the game on your machine
 1. Start by creating a directory on your local machine where all your github projects should be placed. In this example we will call the directory for github projects.
 2. Navigate to the previously created directory using either the bash command cd or by locating it and opening a terminal in your current directory (Type cmd in address bar on windows / right click in your folder and select 'Open in Terminal' on OS x/linux).
